@@ -3,6 +3,8 @@
  * and open the template in the editor.
  */
 
+// Por Marco Julio Mendoza Ortega y Ruyman Díaz Armas
+
 package dam_ed04_actividad;
 
 
